@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "backbone": "^1.6.1",
+    "blueimp-md5": "^2.19.0",
+    "crypto-js": "^4.2.0",
+    "jquery": "^3.7.1",
+    "underscore": "^1.13.7"
+  },
+  "name": "marvel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
